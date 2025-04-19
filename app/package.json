@@ -1,5 +1,5 @@
 {
-  "name": "@packages/storybook",
+  "name": "vite-rnw-example",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "expo-status-bar": "~1.12.1",
     "nativewind": "next",
     "react": "18.3.1",
-    "react-native": "0.76.8",
+    "react-native": "0.74.5",
     "react-native-web": "^0.19.12"
   },
   "devDependencies": {
